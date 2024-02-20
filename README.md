@@ -1,9 +1,9 @@
-WEEK 1-GITHUB BASICS
+WEEK 1-GITHUB BASICS<br>
   DAY1-Understanding GitHub and Create a GitHub Account<br>
-  DAY2-GitHub's GUI - Creating a Repository and Making Changes
-  DAY3-Introduction to Git
-  DAY4-Commit and Push Changes to GitHub
-  DAY5-Understanding Branches and Pull Requests
-  DAY6- Introduction to GitHub Copilot
-  DAY7-Collaborative Coding with Friends
-  WEEK GOAL-Mastering Git, GitHub, and GitHub Copilot
+  DAY2-GitHub's GUI - Creating a Repository and Making Changes<br>
+  DAY3-Introduction to Git<br>
+  DAY4-Commit and Push Changes to GitHub<br>
+  DAY5-Understanding Branches and Pull Requests<br>
+  DAY6- Introduction to GitHub Copilot<br>
+  DAY7-Collaborative Coding with Friends<br>
+  WEEK GOAL-Mastering Git, GitHub, and GitHub Copilot<br>
