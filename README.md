@@ -1,5 +1,5 @@
 WEEK 1-GITHUB BASICS
-  DAY1-Understanding GitHub and Create a GitHub Account
+  DAY1-Understanding GitHub and Create a GitHub Account<br>
   DAY2-GitHub's GUI - Creating a Repository and Making Changes
   DAY3-Introduction to Git
   DAY4-Commit and Push Changes to GitHub
