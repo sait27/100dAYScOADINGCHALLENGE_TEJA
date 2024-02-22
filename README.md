@@ -50,10 +50,10 @@ HTML (HyperText Markup Language) defines the structure of a webpage. Tags are th
 ## Day 9 Challenge: Working with Links, Images, Forms, and Tables in HTML
 ### Links:
 Use the `<a>` tag to create clickable hyperlinks.
-<a href="https://www.your-restaurant.com">Visit Our Restaurant</a>
+```<a href="https://www.your-restaurant.com">Visit Our Restaurant</a>```
 ### Images:
 Embed images in an HTML page using the <img> tag. Use the src attribute to specify the image path and alt for accessibility text.
-<img src="menu-item.jpg" alt="Delicious Spaghetti Bolognese">
+```<img src="menu-item.jpg" alt="Delicious Spaghetti Bolognese">```
 ### Forms:
 Use the <form> tag, which can collect user input and send it to a server.
 ### Tables:
@@ -62,17 +62,17 @@ Tables are made using the <table> tag, with <tr> for rows, <th> for header cells
 ##Day 10 Challenge: Semantics, Comments, Attributes, and Validation in HTML
 ###Semantics:
 HTML5 semantic elements enhance document structure:
-`<header>`: Defines a document or section header.
-`<footer>`: Specifies a footer.
-`<nav>`: Used for navigation links.
-`<article>`: For independent content.
-`<section>`: A section of a document.
-`<aside>`: Content set aside, like a sidebar.
+-`<header>`: Defines a document or section header.
+-`<footer>`: Specifies a footer.
+-`<nav>`: Used for navigation links.
+-`<article>`: For independent content.
+-`<section>`: A section of a document.
+-`<aside>`: Content set aside, like a sidebar.
 ###Comments:
 Comments help in documenting HTML code and are not displayed in the browser.
 <!-- This is a comment -->
 ###Attributes:
 Attributes provide extra information about HTML elements:
-`class`: Classnames for an element.
-`id`: A unique id for an element.
-`style`: Inline CSS styling.
+-`class`: Classnames for an element.
+-`id`: A unique id for an element.
+-`style`: Inline CSS styling.
