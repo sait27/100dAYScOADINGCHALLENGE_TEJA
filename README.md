@@ -17,7 +17,7 @@ I created a repository named 100daysofcodingchallenge_teja and created a readme.
 
 ## DAY5-Understanding Branches and Pull Requests
 - `branch` command: Create a new branch and switches to it.
-- Pull Request: A request to merge changes from one branch to another.
+- `Pull` Request: A request to merge changes from one branch to another.
 
 ## DAY6-Introduction to GitHub Copilot
 
