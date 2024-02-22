@@ -70,7 +70,7 @@ HTML5 semantic elements enhance document structure:
 -`<aside>`: Content set aside, like a sidebar.
 ###Comments:
 Comments help in documenting HTML code and are not displayed in the browser.
-<!-- This is a comment -->
+```<!-- This is a comment --> ```
 ###Attributes:
 Attributes provide extra information about HTML elements:
 -`class`: Classnames for an element.
