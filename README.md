@@ -26,58 +26,53 @@ I created a repository named 100daysofcodingchallenge_teja and created a readme.
 ## WEEK GOAL
 Mastering Git, GitHub, and GitHub Copilot
 
+# Week 2
 
-Week 2
-Day 8 Challenge: Introduction to HTML
-    HTML-HyperText Markup Language defines structure of webpage
-    tag-building blocks of HTM.They define the structure of the webpage and instruct the browser on how to display the content.
-    <!DOCTYPE html> declaration defines the HTML version to ensure the browser renders the content correctly.
-    ELEMENTS:
-        <html>: The root element of an HTML page.
-        <head>: Contains meta-information about the HTML document.
-        <title>: Sets the title of the HTML document (displayed in the browser tab).
-        <body>: Contains the content of the HTML document.
-    Text Formatting
-        <h1> to <h6>: Headings from largest to smallest.
-        <p>: Paragraph.
-        <br>: Line break.
-        <hr>: Horizontal rule.
-        <b> : Bold tag
-    Lists
-        <ul>: Unordered list.
-        <ol>: Ordered list.
-        <li>: List item.
-Day 9 Challenge: Working with Links, Images, Forms, and Tables in HTML
-    Links:<a> tag to create clickable hyperlinks
-        <a href="https://www.your-restaurant.com">Visit Our Restaurant</a>
-    Images:Embed images in an HTML page using the <img> tag. Use the src to specify the image path and alt for accessibility text.
-            <img src="menu-item.jpg" alt="Delicious Spaghetti Bolognese">
-    Forms:<form> tag, which can collect user input and send it to a server.
-    Tables:Tables are made using the <table> tag, with <tr> for rows, <th> for header cells, and <td> for data cells.         
-Day 10 Challenge: Semantics, Comments, Attributes, and Validation in HTML
-    Semantics: HTML5 semantic elements enhance document structure:
-        <header>: Defines a document or section header.
-        <footer>: Specifies a footer.
-        <nav>: Used for navigation links.
-        <article>: For independent content.
-        <section>: A section of a document.
-        <aside>: Content set aside, like a sidebar
-    Coomments:Comments help in documenting HTML code and are not displayed in the browser.
-         <!-- This is a comment -->
-    Attributes:it provides extra information about HTML elements
-        class: Classnames for an element.
-        id: A unique id for an element.
-        style: Inline CSS styling.
-Day 11 Challenge: Introduction to CSS - Understanding the Basics and Integration Methods
-Day 12 Challenge: CSS Selectors and the Box Model
-Day 13 Challenge: CSS Selectors and the Box Model
-Day 14 Challenge: Refining Your Portfolio and Deploying to GitHub Pages
+## Day 8 Challenge: Introduction to HTML
+HTML (HyperText Markup Language) defines the structure of a webpage. Tags are the building blocks of HTML. They define the structure of the webpage and instruct the browser on how to display the content.
+- `<!DOCTYPE html>` declaration defines the HTML version to ensure the browser renders the content correctly.
+### Elements:
+- `<html>`: The root element of an HTML page.
+- `<head>`: Contains meta-information about the HTML document.
+- `<title>`: Sets the title of the HTML document (displayed in the browser tab).
+- `<body>`: Contains the content of the HTML document.
+### Text Formatting:
+- `<h1>` to `<h6>`: Headings from largest to smallest.
+- `<p>`: Paragraph.
+- `<br>`: Line break.
+- `<hr>`: Horizontal rule.
+- `<b>`: Bold tag.
+### Lists:
+- `<ul>`: Unordered list.
+- `<ol>`: Ordered list.
+- `<li>`: List item.
 
-Week 2
-Day 8 Challenge: Introduction to HTML
-Day 9 Challenge: Working with Links, Images, Forms, and Tables in HTML
-Day 10 Challenge: Semantics, Comments, Attributes, and Validation in HTML
-Day 11 Challenge: Introduction to CSS - Understanding the Basics and Integration Methods
-Day 12 Challenge: CSS Selectors and the Box Model
-Day 13 Challenge: CSS Selectors and the Box Model
-Day 14 Challenge: Refining Your Portfolio and Deploying to GitHub Pages
+## Day 9 Challenge: Working with Links, Images, Forms, and Tables in HTML
+### Links:
+Use the `<a>` tag to create clickable hyperlinks.
+<a href="https://www.your-restaurant.com">Visit Our Restaurant</a>
+### Images:
+Embed images in an HTML page using the <img> tag. Use the src attribute to specify the image path and alt for accessibility text.
+<img src="menu-item.jpg" alt="Delicious Spaghetti Bolognese">
+### Forms:
+Use the <form> tag, which can collect user input and send it to a server.
+### Tables:
+Tables are made using the <table> tag, with <tr> for rows, <th> for header cells, and <td> for data cells.
+
+##Day 10 Challenge: Semantics, Comments, Attributes, and Validation in HTML
+###Semantics:
+HTML5 semantic elements enhance document structure:
+`<header>`: Defines a document or section header.
+`<footer>`: Specifies a footer.
+`<nav>`: Used for navigation links.
+`<article>`: For independent content.
+`<section>`: A section of a document.
+`<aside>`: Content set aside, like a sidebar.
+###Comments:
+Comments help in documenting HTML code and are not displayed in the browser.
+<!-- This is a comment -->
+###Attributes:
+Attributes provide extra information about HTML elements:
+`class`: Classnames for an element.
+`id`: A unique id for an element.
+`style`: Inline CSS styling.
