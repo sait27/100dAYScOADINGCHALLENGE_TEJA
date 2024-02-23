@@ -59,20 +59,20 @@ Use the ```<form>``` tag, which can collect user input and send it to a server.
 ### Tables:
 Tables are made using the `<table>` tag, with `<tr>` for rows, `<th>` for header cells, and `<td>` for data cells.<br>
 
-##Day 10 Challenge: Semantics, Comments, Attributes, and Validation in HTML
-###Semantics:
+## Day 10 Challenge: Semantics, Comments, Attributes, and Validation in HTML.
+### Semantics:
 HTML5 semantic elements enhance document structure:
--`<header>`: Defines a document or section header.
--`<footer>`: Specifies a footer.
--`<nav>`: Used for navigation links.
--`<article>`: For independent content.
--`<section>`: A section of a document.
--`<aside>`: Content set aside, like a sidebar.
-###Comments:
+- `<header>`: Defines a document or section header.
+- `<footer>`: Specifies a footer.<br>
+- `<nav>`: Used for navigation links.<br>
+- `<article>`: For independent content.<br>
+- `<section>`: A section of a document.
+- `<aside>`: Content set aside, like a sidebar.
+### Comments:
 Comments help in documenting HTML code and are not displayed in the browser.
 ```<!-- This is a comment --> ```
-###Attributes:
+### Attributes:
 Attributes provide extra information about HTML elements:
--`class`: Classnames for an element.
--`id`: A unique id for an element.
--`style`: Inline CSS styling.
+- `class`: Classnames for an element.
+- `id`: A unique id for an element.
+- `style`: Inline CSS styling.
