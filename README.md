@@ -57,7 +57,7 @@ Embed images in an HTML page using the <img> tag. Use the src attribute to speci
 ### Forms:
 Use the ```<form>``` tag, which can collect user input and send it to a server.
 ### Tables:
-Tables are made using the ```<table>``` tag, with ```<tr>``` for rows, ```<th>``` for header cells, and ```<td>``` for data cells.
+Tables are made using the `<table>` tag, with `<tr>` for rows, `<th>` for header cells, and `<td>` for data cells.
 
 ##Day 10 Challenge: Semantics, Comments, Attributes, and Validation in HTML
 ###Semantics:
