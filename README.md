@@ -76,3 +76,20 @@ Attributes provide extra information about HTML elements:
 - `class`: Classnames for an element.
 - `id`: A unique id for an element.
 - `style`: Inline CSS styling.
+
+## Day11:Introduction to CSS - Understanding the Basics and Integration Methods
+### CSS
+CSS (Cascading Style Sheets) is a style sheet language used to describe the look and format of a document written in HTML. It's what makes the web look good.
+### How to Add CSS
+- `External CSS`:Link an external `.css` file within your HTML.
+```<link rel="stylesheet" type="text/css" href="styles.css">```
+- `Internal CSS`:Place CSS in a `<style>` tag within the `<head>` section of your HTML.
+``` html
+<style>
+p {
+  color: red;
+}
+</style> 
+```
+- `Inline CSS`:  Apply styles directly with the style attribute of HTML elements.
+``` <p style="color: blue;">This is a paragraph.</p> ```
