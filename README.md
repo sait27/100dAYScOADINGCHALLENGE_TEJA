@@ -125,8 +125,6 @@ Selectors allow you to target specific HTML elements to style.
    The element with `id="header"` gets a light grey background.
 
 ## The Box Model
-The box model consists of margins, borders, padding, and the content area.
-- <center><img src="https://github.com/adithyasai/100daysofcodingchallenge/blob/week2/images/week2_ss6.png" width="800" height="400"></center>
 
 ### Examples:
 1. **Margin:**
