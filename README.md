@@ -142,3 +142,27 @@ Selectors allow you to target specific HTML elements to style.
    }
    ```
    `.box` will have a 2px solid black border.
+
+# Week3
+
+## Introduction to JavaScript
+    JavaScript is a vital programming language for web development, enabling dynamic interactions on web pages. It works alongside HTML and CSS to make websites interactive and user-friendly.
+### Variables, Data Types, and Operators
+    variables are named containers for data.In js,there are three ways to delare
+
+```javascript
+var oldSchool = "I can be redeclared or updated";
+let modernVariable = "I can be updated but not redeclared within the same scope";
+const constantValue = "I cannot be updated or redeclared";
+```    
+
+**Data Types** categorize the kinds of data we can work with. JavaScript has several:
+
+- **Primitive Types:** These include `undefined` , `null`, `boolean`, `number`, `string`, `symbol`, and `bigint`.
+- **Non-Primitive Types:** Essentially, objects (including arrays and functions).
+
+### Basic Output with console.log()
+The `console.log()` function is a basic output method that writes a message to the console.
+
+### Real-Life Example
+JavaScript powers interactive elements on websites, like greeting pop-ups and responsive buttons, making the web experience richer.
